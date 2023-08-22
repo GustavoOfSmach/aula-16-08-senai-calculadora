@@ -6,5 +6,8 @@ calculadora simples feita em python.
 
 | Funções |
 | ------- | 
-HTML| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |PHP 
+HTML| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) 
+|PHP 
+HTML| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) 
+|PHP 
 
